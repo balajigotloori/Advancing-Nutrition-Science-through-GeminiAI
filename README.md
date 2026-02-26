@@ -107,7 +107,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-_(Add screenshots in the `docs/` folder or include images in this section.)_
+_(Added screenshots in the `docs/` folder )_
 
 ---
 
